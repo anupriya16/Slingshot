@@ -1,0 +1,6 @@
+E:\SlingShotProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\SlingShotProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\SlingShotProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\SlingShotProjects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\SlingShotProjects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\SlingShotProjects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
